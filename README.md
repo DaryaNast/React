@@ -4,4 +4,3 @@ React + Vite + + TypeScript
 Практическая задача 1.3.6 Проверяемое задание «Тестирование в React: настройка Vitest»
 
 GH-Pages: https://daryanast.github.io/React/
-```
